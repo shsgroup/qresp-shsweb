@@ -1,0 +1,7 @@
+[
+  {
+    "http_server_url": "https://shsarchive.chem.yale.edu/papers",
+    "isActive": "Yes",
+    "qresp_maintainer_emails": ["alexander.soudackov@yale.edu"]
+  }
+]
